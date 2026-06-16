@@ -97,7 +97,7 @@ class Shivank:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivankSubanshi&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivankSubanshi&theme=tokyo-night&hide_border=true&area=true&interval=month" />
 </div>
 
 <br/>
