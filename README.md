@@ -18,10 +18,10 @@ class Shivank:
     currently   = "Building AI-powered applications"
     learning    = ["LLMs", "Vector Databases", "Agentic AI", "MLOps"]
     looking_for = "Collaborations on AI/ML projects"
-    fun_fact    = "I train models, models don't train me 🧠"
+    fun_fact    = "I train models, models don't train me -- not the other way!"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool 🚀")
+        print("Thanks for dropping by! Let's build something cool together!")
 ```
 
 <br/>
