@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Shivank+%F0%9F%91%8B;ML+%2F+AI+Engineer+in+the+making+%F0%9F%A4%96;Building+intelligent+systems+%F0%9F%A7%A0;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Shivank+%F0%9F%91%8B;ML+%2F+AI+Engineer+in+the+making;Building+intelligent+systems+%F0%9F%A7%A0;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,7 +21,7 @@ class Shivank:
     fun_fact    = "I train models, models don't train me 🧠"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together 🚀")
+        print("Thanks for dropping by! Let's build something cool 🚀")
 ```
 
 <br/>
@@ -75,12 +75,13 @@ class Shivank:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivankSubanshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankSubanshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankSubanshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankSubanshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 <br/>
@@ -105,9 +106,9 @@ class Shivank:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanksubanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivank-subanshi-116351262/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivankSubanshi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanksubanshi0001@gmail.com)
 
 </div>
 
