@@ -64,9 +64,8 @@ class Shivank:
 | Project | Description | Stack |
 |---|---|---|
 | 🔬 [**Multiple Disease Prediction**](https://github.com/ShivankSubanshi/MultipleDiseasePrediction) | ML app predicting multiple diseases from symptoms | Python, Streamlit, scikit-learn |
-| 🤖 [**RAG Teaching AI Assistant**](https://github.com/ShivankSubanshi/RAG-Teaching-AI-Assistant) | AI-powered teaching assistant using Retrieval-Augmented Generation | Python, LangChain, RAG |
+| 🤖 [**RAG Teaching AI Assistant**](https://github.com/ShivankSubanshi/RAG-Teaching-AI-Assistant) | AI-powered teaching assistant using Retrieval-Augmented Generation | Python, RAG |
 | 🫁 [**Tuberculosis Detection Model**](https://github.com/ShivankSubanshi/Tuberculosis-Detection-Model) | Deep learning model for TB detection from chest X-rays | Jupyter Notebook, CNN |
-| ⚖️ [**The AI Bar**](https://github.com/ShivankSubanshi/THE-AI-BAR) | AI education platform for legal professionals | TypeScript |
 
 </div>
 
@@ -82,22 +81,6 @@ class Shivank:
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankSubanshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivankSubanshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivankSubanshi&theme=tokyo-night&hide_border=true&area=true&interval=month" />
 </div>
 
 <br/>
